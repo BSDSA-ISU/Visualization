@@ -7,6 +7,5 @@
 - [Bazar_Lab3.ipynb](./Untitled.ipynb)
 - [dataset used](./ERA.csv)
 
-## Its okay to feel sad since You only die once
-
+## Okay lang, Iasng beses lang naman tau mamamatay
 > Bazar
